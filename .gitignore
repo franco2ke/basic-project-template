@@ -1,0 +1,12 @@
+# Don't track content of these:
+# folders #
+###################
+# someFolder/
+node_modules
+
+# System files #
+###################
+.DS_Store
+package-lock.json
+
+
